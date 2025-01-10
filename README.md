@@ -76,4 +76,4 @@ This project focuses on developing an intelligent and dynamic route optimization
 This project is licensed under the MIT License.
 
 ## Contact
-For more information, please contact [Your Name] at [Your Email].
+For more information, please contact me at haroun.barhoumi2001@gmail.com .
