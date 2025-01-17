@@ -24,7 +24,7 @@ This project focuses on developing an intelligent and dynamic route optimization
 - Python with Flask or Django.
 
 ### Frontend:
-- React or Vue.js for interactive dashboards and visualizations.
+- React  for interactive dashboards and visualizations.
 
 ### Database:
 - PostgreSQL with PostGIS for geospatial data.
